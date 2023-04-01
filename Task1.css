@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 2px;
+}
+#navbar{
+    background-color: #273852;
+    display: flex;
+    height: 100px;
+    box-shadow: 5px 5px 5px;
+    overflow: hidden;
+
+}
+#box{
+    background-color: white;
+    border: 1px solid red;
+    display: inline;
+    margin: auto;
+    height: 50px;
+    width: 350px;
+    overflow: hidden;
+
+}
+#bttn
+{
+    background-color: black;
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.imgs{
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    box-shadow: grey;
+}
+#txt{
+    font: roboto;
+    padding:10px 20px 50px;
+}
+#button{
+    background-color: orangered;
+    box-shadow: 3px 3px 3px;
+    border: white;
+    color: white;
+}
